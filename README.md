@@ -3,7 +3,7 @@
 A simple [Angular5](https://angular.io/) / [Redux](https://redux.js.org/) project which represents a little part of my professional skills and abilities to work with this stuff
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:8080/`.
+Run `npm start` or `yarn start` for a dev server. Navigate to `http://localhost:8080/`.
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
