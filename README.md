@@ -4,6 +4,10 @@ A simple [Angular5](https://angular.io/) / [Redux](https://redux.js.org/) projec
  
 ![NG-Counter](src/assets/ng-counter.jpg)
 
+## Requirements
+* node `^4.5.0`
+* yarn `^0.17.0` or npm `^3.0.0`
+
 ## Development server
 
 Run `npm start` or `yarn start` for a dev server. Navigate to `http://localhost:8080/`.
